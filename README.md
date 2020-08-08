@@ -5,12 +5,15 @@
 
 <!-- Here are some ideas to get you started: -->
 
+- 😄 Pronouns: He/His.
+
 - 🔭 I’m currently working on Flutter Application.
-- 🌱 I’m currently learning Machine learning, Flutter.
+- 🌱 I’m currently learning everything.
 - 👯 I’m looking to collaborate on Open Source Project.
-- 🤔 I’m looking for help with Firebase. 
+- 🤔 I’m looking for help with . 
 - 💬 Ask me about Flutter.
 - 📫 How to reach me: Connect with me On [LinkedIn](https://www.linkedin.com/in/anubhav-gupta-307a3a16b/)
-<!-- - 😄 Pronouns: ...
-- ⚡ Fun fact: ... -->
 
+- ⚡ Fun fact: 
+  * Tech Geeky
+  * Writer
