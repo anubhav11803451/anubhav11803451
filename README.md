@@ -7,7 +7,7 @@
 
 - 😄 Pronouns: He/His.
 
-- 🔭 I’m currently working on Flutter Application.
+- 🔭 I’m currently working as Flutter Developer intern at [FlutterDevs](https://github.com/flutter-devs)
 - 🌱 I’m currently learning everything.
 - 👯 I’m looking to collaborate on Open Source Project.
 - 🤔 I’m looking for help with . 
