@@ -6,10 +6,8 @@
 <!-- Here are some ideas to get you started: -->
 
 - 😄 Pronouns: He/His.
-- 🌱 I’m currently learning React and Flutter.
+- 🌱 I’m currently learning React, Flutter & Automation Testing.
 - 👯 I’m looking to collaborate on Open Source Project.
 - 💬 Ask me about Flutter.
-- 📫 How to reach me: Connect with me On [LinkedIn](https://www.linkedin.com/in/anubhav-gupta-307a3a16b/)
+- 📫 How to reach me: Connect with me On [LinkedIn](https://www.linkedin.com/in/anubhav-gupta-307a3a16b/) [Call me📱](+919026743253)
 
-- ⚡ Fun fact: 
-  * Tech Geeky
