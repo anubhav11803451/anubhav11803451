@@ -9,5 +9,6 @@
 - 🌱 I’m currently learning React, Flutter & Automation Testing.
 - 👯 I’m looking to collaborate on Open Source Project.
 - 💬 Ask me about Flutter.
-- 📫 How to reach me: Connect with me On [LinkedIn](https://www.linkedin.com/in/anubhav-gupta-307a3a16b/) [Call me📱](+919026743253)
+- 📱 [Call me](+919026743253) Or
+- Connect with me On [LinkedIn](https://www.linkedin.com/in/anubhav-gupta-307a3a16b/) 
 
